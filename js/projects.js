@@ -6,27 +6,13 @@ const data = [
     desc: "Canteen Automation Using Django and Flutter",
     tech: [{ stack: "Django" }, { stack: "Sqlite3" }, { stack: "Flutter" }],
   },
-  // {
-  //   title: "Apni Career",
-  //   source: "https://github.com/akhil-s-kumar/apnicareer-webapp",
-  //   exeternal: "https://www.apnicareer.com/",
-  //   desc: "Easiest tool to find your perfect job",
-  //   tech: [{ stack: "React" }, { stack: "GraphQL" }, { stack: "Node JS" }],
-  // },
-  // {
-  //   title: "Django Blog App",
-  //   source: "https://github.com/akhil-s-kumar/django-blog-app",
-  //   exeternal: "https://akhil-s-kumar.github.io/projects",
-  //   desc: "A complete Blog application",
-  //   tech: [{ stack: "React" }, { stack: "GraphQL" }, { stack: "Django" }],
-  // },
-  // {
-  //   title: "Covid-19 Stats",
-  //   source: "https://github.com/akhil-s-kumar/COVID-19",
-  //   exeternal: "https://akhil-s-kumar.github.io/COVID-19/",
-  //   desc: "Tool to find complete stats and vaccination availability",
-  //   tech: [{ stack: "HTML" }, { stack: "CSS" }, { stack: "Django" }],
-  // },
+  {
+    title: "Bridgeon Projects",
+    source: "https://github.com/n-aeee-m/bridgeon.git",
+    exeternal: "https://github.com/n-aeee-m/bridgeon.git/",
+    desc: "Bridgeon Projects",
+    tech: [{ stack: "HTML" }, { stack: "CSS" }, { stack: "JS" }],
+  },
 ];
 
 const projectContainer = document.getElementById("projectContents");
